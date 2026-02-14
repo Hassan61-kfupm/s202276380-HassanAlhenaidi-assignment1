@@ -4,8 +4,7 @@ Simple portfolio with About, Projects, and Contact sections.
 
 ## How to Run
 1. Download files
-2. Add images to assets/images/
-3. Open index.html
+2. Open index.html with any web browser 
 
 ## Features
 - Smooth scrolling
